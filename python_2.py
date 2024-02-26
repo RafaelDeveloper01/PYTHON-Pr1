@@ -1,1 +1,1 @@
-print("chao")
+print("chao_VERSION2")
